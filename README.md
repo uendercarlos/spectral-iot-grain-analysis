@@ -392,8 +392,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 📬 Contato
 
 Para dúvidas ou colaborações:
-- **Email:** [seu-email@exemplo.com]
-- **Issues:** Use a aba [Issues](../../issues) deste repositório
+- **Email:** u.carlos3@gmail.com
+
 
 ---
 
