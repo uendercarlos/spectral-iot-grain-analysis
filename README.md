@@ -274,7 +274,7 @@ Detecção de Anomalias
 |---------|-------|
 | Acurácia (LOSO) | 97.9% |
 | Variância Explicada (PCA) | 93.9% |
-| Taxa de Falsos Positivos | ~0% |
+| Taxa de Falsos Positivos | ~7,2% |
 | Latência Total | ~7 segundos |
 
 ---
