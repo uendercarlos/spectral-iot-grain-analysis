@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-ESP32-green.svg)](https://www.espressif.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/Licença-INPI-blue.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-Dissertação-orange.svg)](#citação)
 
 ---
@@ -110,10 +110,10 @@ spectral-iot-grain-analysis/
 │   └── inferencia_espectral_um_modelo_pkl.ino    # Inferência em tempo real
 │
 ├── server/                            # Aplicação Flask
-│   └── app_um_modelo_3.py             # Servidor de inferência com API REST
+│   └── servidor_flask.py.py             # Servidor de inferência com API REST
 │
 ├── training/                          # Notebooks de treinamento
-│   └── dissertacao_espectral_simples_um_modelo_6.ipynb  # Treinamento SVM + PCA
+│   └── jupyter_treinamento_modelo_espectral_simples_6.ipynb  # Treinamento SVM + PCA
 │
 ├── models/                            # Modelos serializados
 │   └── modelo_completo_sem_485nm.pkl  # Modelo de produção (~9 MB)
@@ -126,7 +126,7 @@ spectral-iot-grain-analysis/
 │
 ├── README.md                          # Este arquivo
 ├── requirements.txt                   # Dependências Python
-└── LICENSE                            # Licença MIT
+└── LICENSE                            # Termos de uso e licenciamento
 ```
 
 ---
@@ -361,7 +361,12 @@ Se utilizar este código em sua pesquisa, por favor cite:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+📋 **Registro de Software:** Este sistema está protegido com registro de programa de computador junto ao INPI (Instituto Nacional da Propriedade Industrial).
+
+O código-fonte é disponibilizado publicamente para garantir a **reprodutibilidade científica** da pesquisa. O uso é permitido para fins acadêmicos e de pesquisa, com devida citação do trabalho original.
+
+Para uso comercial, licenciamento ou transferência de tecnologia, entre em contato com:
+- Instituto Federal Goiano – Núcleo de Inovação Tecnológica (NIT)
 
 ---
 
