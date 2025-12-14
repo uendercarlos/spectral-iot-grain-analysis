@@ -391,6 +391,7 @@ Para uso comercial, licenciamento ou transferência de tecnologia, entre em cont
 - Instituto Federal Goiano – Campus Rio Verde
 - Programa de Pós-Graduação em Tecnologia de Alimentos
 - CEAGRE(Centro de Excelência em Agricultura Exponencial)
+- CAPES, CNPQ e FAPEG
 
 ---
 
