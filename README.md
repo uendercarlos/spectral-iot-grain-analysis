@@ -380,7 +380,7 @@ Para uso comercial, licenciamento ou transferência de tecnologia, entre em cont
 
 **Coorientadores:**
 - Dr. Daniel Emanuel Cabral de Oliveira
-- Me. Leandro Rodrigues da Silva Souza
+- Dr. Leandro Rodrigues da Silva Souza
 - Dra. Jaqueline Ferreira Vieira Bessa
 - Dra. Juliana Aparecida Célia
 
