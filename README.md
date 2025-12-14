@@ -399,6 +399,7 @@ Para uso comercial, licenciamento ou transferência de tecnologia, entre em cont
 
 Para dúvidas ou colaborações:
 - **Email:** u.carlos3@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/uender-carlos/
 
 
 ---
