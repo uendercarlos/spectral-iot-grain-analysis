@@ -21,7 +21,6 @@
 - [Modelo de Machine Learning](#-modelo-de-machine-learning)
 - [Resultados](#-resultados)
 - [API Endpoints](#-api-endpoints)
-- [Citação](#-citação)
 - [Licença](#-licença)
 - [Autores](#-autores)
 
@@ -342,10 +341,27 @@ O sistema detectou com sucesso:
 
 ---
 
-## 📖 Citação
 
-Se utilizar este código em sua pesquisa, por favor cite:
 
+---
+
+## 📄 Licença
+
+📋 **Registro de Software:** Este sistema está protegido com registro de programa de computador junto ao INPI (Instituto Nacional da Propriedade Industrial), vinculado ao Instituto Federal Goiano.
+
+Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo sob os termos da **Licença Pública Geral GNU (GPL v3)**, conforme publicada pela Free Software Foundation.
+
+O código-fonte é disponibilizado publicamente para garantir a **reprodutibilidade científica** da pesquisa.
+
+---
+
+### ⚠️ Citação Obrigatória
+
+O uso deste software, seja parcial ou integral, para fins acadêmicos, científicos, educacionais ou comerciais, **REQUER OBRIGATORIAMENTE** a citação do trabalho original:
+
+> BARBOSA, U. C. **Sistema Espectral IoT de Baixo Custo para Análise Não Destrutiva de Grãos com Machine Learning**. 2025. Dissertação (Mestrado em Tecnologia de Alimentos) – Instituto Federal Goiano, Campus Rio Verde, Rio Verde, 2025.
+
+**Formato BibTeX:**
 ```bibtex
 @mastersthesis{barbosa2025spectral,
   title={Sistema Espectral IoT de Baixo Custo para Análise Não Destrutiva de Grãos com Machine Learning},
@@ -359,14 +375,11 @@ Se utilizar este código em sua pesquisa, por favor cite:
 
 ---
 
-## 📄 Licença
-
-📋 **Registro de Software:** Este sistema está protegido com registro de programa de computador junto ao INPI (Instituto Nacional da Propriedade Industrial).
-
-O código-fonte é disponibilizado publicamente para garantir a **reprodutibilidade científica** da pesquisa. O uso é permitido para fins acadêmicos e de pesquisa, com devida citação do trabalho original.
+### 🏢 Uso Comercial
 
 Para uso comercial, licenciamento ou transferência de tecnologia, entre em contato com:
-- Instituto Federal Goiano – Núcleo de Inovação Tecnológica (NIT)
+- **Instituto Federal Goiano – Núcleo de Inovação Tecnológica (NIT)**
+- E-mail: nit@ifgoiano.edu.br
 
 ---
 
