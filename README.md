@@ -3,7 +3,7 @@
 **Sistema de baixo custo para classificação não destrutiva de grãos usando espectroscopia VIS-NIR e Machine Learning**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-ESP32-green.svg)](https://www.espressif.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-ESP32-green.svg)]([https://www.espressif.com/](https://www.espressif.com/en/products/socs/esp32))
 [![License](https://img.shields.io/badge/Licença-INPI-blue.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-Dissertação-orange.svg)](#citação)
 
