@@ -1,0 +1,66 @@
+Sistema Espectral IoT para Análise de Grãos com Machine Learning
+Copyright (C) 2025 Uender Carlos Barbosa, Osvaldo Resende, 
+Daniel Emanuel Cabral de Oliveira, Leandro Rodrigues da Silva Souza,
+Jaqueline Ferreira Vieira Bessa e Juliana Aparecida Célia.
+
+Instituto Federal Goiano – Campus Rio Verde
+Programa de Pós-Graduação em Tecnologia de Alimentos
+
+Este software possui registro de propriedade intelectual junto ao INPI
+(Instituto Nacional da Propriedade Industrial).
+
+=======================================================================
+                         TERMOS DE USO
+=======================================================================
+
+Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo
+sob os termos da Licença Pública Geral GNU (GPL), conforme publicada pela
+Free Software Foundation; seja a versão 3 da Licença, ou (a seu critério)
+qualquer versão posterior.
+
+Este programa é distribuído na esperança de que seja útil, mas SEM 
+QUALQUER GARANTIA; sem sequer a garantia implícita de COMERCIALIZAÇÃO 
+ou ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Consulte a Licença Pública 
+Geral GNU para mais detalhes.
+
+=======================================================================
+                    CITAÇÃO OBRIGATÓRIA
+=======================================================================
+
+O uso deste software, seja parcial ou integral, para fins acadêmicos,
+científicos, educacionais ou comerciais, REQUER OBRIGATORIAMENTE a 
+citação do trabalho original conforme formato abaixo:
+
+BARBOSA, U. C. Sistema Espectral IoT de Baixo Custo para Análise Não 
+Destrutiva de Grãos com Machine Learning. 2025. Dissertação (Mestrado 
+em Tecnologia de Alimentos) – Instituto Federal Goiano, Campus Rio 
+Verde, Rio Verde, 2025.
+
+Formato BibTeX:
+
+@mastersthesis{barbosa2025spectral,
+  title={Sistema Espectral IoT de Baixo Custo para Análise Não 
+         Destrutiva de Grãos com Machine Learning},
+  author={Barbosa, Uender Carlos},
+  year={2025},
+  school={Instituto Federal Goiano - Campus Rio Verde},
+  type={Dissertação de Mestrado},
+  program={Programa de Pós-Graduação em Tecnologia de Alimentos}
+}
+
+=======================================================================
+                      USO COMERCIAL
+=======================================================================
+
+Para uso comercial, licenciamento ou transferência de tecnologia, 
+entre em contato com:
+
+Núcleo de Inovação Tecnológica (NIT)
+Instituto Federal Goiano
+E-mail: nit@ifgoiano.edu.br
+
+=======================================================================
+
+Você deveria ter recebido uma cópia da Licença Pública Geral GNU
+juntamente com este programa. Caso contrário, consulte:
+<https://www.gnu.org/licenses/gpl-3.0.html>
